@@ -231,13 +231,14 @@ printf("Hello Hassan \n");
 // }
 // printf("final Factoral is %d", fact);
 
-int n;
-printf("Enter a number :");
-scanf("%d", &n);
+// int n;
+// printf("Enter a number :");
 
-for (int i=10; i>=1; i--){
-	printf("%d", n*i);
-}
+// scanf("%d", &n);
+
+// for (int i=10; i>=1; i--){
+// 	printf("%d", n*i);
+// }
 
 return 0;
 }
